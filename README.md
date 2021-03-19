@@ -2,12 +2,14 @@
 
 ## I help with open source
 
+- [activity_notification](https://github.com/simukappu/activity_notification) <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg" alt="ruby" width="18" height="18"/>
+  - [ ] [#160](https://github.com/simukappu/activity_notification/pull/160) Configure default subscriptions for emails and optional targets
 - [caxlsx](https://github.com/caxlsx/caxlsx) <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg" alt="ruby" width="18" height="18"/>
   - [x] [#3](https://github.com/caxlsx/caxlsx/pull/3) Add caxlsx.rb to make auto require work
   - [x] [#40](https://github.com/caxlsx/caxlsx/pull/40) Escape characters in charts
   - [x] [#41](https://github.com/caxlsx/caxlsx/pull/41) Remove global variables from example
   - [x] [#47](https://github.com/caxlsx/caxlsx/pull/47) Restructure examples folder
-  - [ ] [#80](https://github.com/caxlsx/caxlsx/pull/80) Add conditional formatting example for text equality
+  - [x] [#80](https://github.com/caxlsx/caxlsx/pull/80) Add conditional formatting example for text equality
   - [ ] [#81](https://github.com/caxlsx/caxlsx/pull/81) Add option to define a color for the BarSeries
 - [Minecraft-Overviewer](https://github.com/overviewer/Minecraft-Overviewer) <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="18" height="18"/>
   - [x] [#1186](https://github.com/overviewer/Minecraft-Overviewer/pull/1186) Regions fixed
