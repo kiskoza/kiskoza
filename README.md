@@ -12,7 +12,7 @@
   - [x] [#80](https://github.com/caxlsx/caxlsx/pull/80) Add conditional formatting example for text equality
   - [x] [#81](https://github.com/caxlsx/caxlsx/pull/81) Add option to define a color for the BarSeries
 - [marcel](https://github.com/rails/marcel) <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg" alt="ruby" width="18" height="18"/>
-  - [ ] [#58](https://github.com/rails/marcel/pull/58) Fix audio/webm files
+  - [x] [#58](https://github.com/rails/marcel/pull/58) Fix audio/webm files
 - [Minecraft-Overviewer](https://github.com/overviewer/Minecraft-Overviewer) <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="18" height="18"/>
   - [x] [#1186](https://github.com/overviewer/Minecraft-Overviewer/pull/1186) Regions fixed
 - [rubocop-graphql](https://github.com/DmitryTsepelev/rubocop-graphql) <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg" alt="ruby" width="18" height="18"/>
@@ -38,18 +38,4 @@
 - [caxlsx#36](https://github.com/caxlsx/caxlsx/pull/36)
 - [caxlsx#60](https://github.com/caxlsx/caxlsx/pull/60)
 - [cucumber-rails#488](https://github.com/cucumber/cucumber-rails/pull/488)
-
-<!--
-**kiskoza/kiskoza** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- [sentry-fargate-cf-stack#56](https://github.com/Rungutan/sentry-fargate-cf-stack/pull/56)
