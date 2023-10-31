@@ -4,26 +4,26 @@
   <summary><h2>📘 My Recent Open Source Contributions</h2></summary>
 
   <a href="https://github.com/caxlsx/caxlsx/issues?q=author%3Akiskoza">
-    <picture height=200 align="center">
+    <picture>
       <source
-        srcset="https://github-readme-stats.vercel.app/api/pin/?username=caxlsx&repo=caxlsx&theme=dark"
+        srcset="https://github-readme-stats.vercel.app/api/pin/?username=caxlsx&repo=caxlsx&show_owner=true&theme=dark"
         media="(prefers-color-scheme: dark)" />
       <source
-        srcset="https://github-readme-stats.vercel.app/api/pin/?username=caxlsx&repo=caxlsx"
+        srcset="https://github-readme-stats.vercel.app/api/pin/?username=caxlsx&repo=caxlsx&show_owner=true"
         media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" />
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=caxlsx&repo=caxlsx" />
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=caxlsx&repo=caxlsx&show_owner=true" />
     </picture>
   </a>
 
   <a href="https://github.com/pulsar-edit/pulsar/issues?q=author%3Akiskoza">
-    <picture height=200 align="center">
+    <picture>
       <source
-        srcset="https://github-readme-stats.vercel.app/api/pin/?username=pulsar-edit&repo=pulsar&theme=dark"
+        srcset="https://github-readme-stats.vercel.app/api/pin/?username=pulsar-edit&repo=pulsar&show_owner=true&theme=dark"
         media="(prefers-color-scheme: dark)" />
       <source
-        srcset="https://github-readme-stats.vercel.app/api/pin/?username=pulsar-edit&repo=pulsar"
+        srcset="https://github-readme-stats.vercel.app/api/pin/?username=pulsar-edit&repo=pulsar&show_owner=true"
         media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" />
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=pulsar-edit&repo=pulsar" />
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=pulsar-edit&repo=pulsar&show_owner=true" />
     </picture>
   </a>
 </details>
