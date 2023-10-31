@@ -1,15 +1,9 @@
 ### Hi there 👋
 
-<style>
-  .kiskoza-test {
-    border-color: solid red 1px;
-  }
-</style>
-
 <details open>
   <summary><h2>📘 My Recent Open Source Contributions</h2></summary>
 
-  <div class="kiskoza-test" style="display: flex; align-items: center; flex-flow: row wrap; justify-content: space-around;">
+  <div>
     <a href="https://github.com/caxlsx/caxlsx/issues?q=author%3Akiskoza">
       <picture>
         <source
