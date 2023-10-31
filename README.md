@@ -138,17 +138,6 @@
             src="https://github-readme-stats.vercel.app/api/pin/?username=simukappu&repo=activity_notification&show_owner=true"/>
       </picture>
     </a>
-    <a href="https://github.com/pulsar-edit/.github/issues?q=author%3Akiskoza">
-      <picture>
-        <source
-            srcset="https://github-readme-stats.vercel.app/api/pin/?username=pulsar-edit&repo=.github&show_owner=true&theme=dark"
-            media="(prefers-color-scheme: dark)"/>
-        <source
-            srcset="https://github-readme-stats.vercel.app/api/pin/?username=pulsar-edit&repo=.github&show_owner=true"
-            media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"/>
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=pulsar-edit&repo=.github&show_owner=true"/>
-      </picture>
-    </a>
     <a href="https://github.com/fnando/i18n/issues?q=author%3Akiskoza">
       <picture>
         <source
@@ -181,18 +170,6 @@
             media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"/>
         <img
             src="https://github-readme-stats.vercel.app/api/pin/?username=github&repo=advisory-database&show_owner=true"/>
-      </picture>
-    </a>
-    <a href="https://github.com/xyven1/asdf-rust-analyzer/issues?q=author%3Akiskoza">
-      <picture>
-        <source
-            srcset="https://github-readme-stats.vercel.app/api/pin/?username=xyven1&repo=asdf-rust-analyzer&show_owner=true&theme=dark"
-            media="(prefers-color-scheme: dark)"/>
-        <source
-            srcset="https://github-readme-stats.vercel.app/api/pin/?username=xyven1&repo=asdf-rust-analyzer&show_owner=true"
-            media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"/>
-        <img
-            src="https://github-readme-stats.vercel.app/api/pin/?username=xyven1&repo=asdf-rust-analyzer&show_owner=true"/>
       </picture>
     </a>
     <a href="https://github.com/denysdovhan/vacuum-card/issues?q=author%3Akiskoza">
@@ -250,18 +227,6 @@
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=rails&repo=marcel&show_owner=true"/>
       </picture>
     </a>
-    <a href="https://github.com/Rungutan/sentry-fargate-cf-stack/issues?q=author%3Akiskoza">
-      <picture>
-        <source
-            srcset="https://github-readme-stats.vercel.app/api/pin/?username=Rungutan&repo=sentry-fargate-cf-stack&show_owner=true&theme=dark"
-            media="(prefers-color-scheme: dark)"/>
-        <source
-            srcset="https://github-readme-stats.vercel.app/api/pin/?username=Rungutan&repo=sentry-fargate-cf-stack&show_owner=true"
-            media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"/>
-        <img
-            src="https://github-readme-stats.vercel.app/api/pin/?username=Rungutan&repo=sentry-fargate-cf-stack&show_owner=true"/>
-      </picture>
-    </a>
     <a href="https://github.com/DmitryTsepelev/rubocop-graphql/issues?q=author%3Akiskoza">
       <picture>
         <source
@@ -272,29 +237,6 @@
             media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"/>
         <img
             src="https://github-readme-stats.vercel.app/api/pin/?username=DmitryTsepelev&repo=rubocop-graphql&show_owner=true"/>
-      </picture>
-    </a>
-    <a href="https://github.com/smashedtoatoms/asdf-postgres/issues?q=author%3Akiskoza">
-      <picture>
-        <source
-            srcset="https://github-readme-stats.vercel.app/api/pin/?username=smashedtoatoms&repo=asdf-postgres&show_owner=true&theme=dark"
-            media="(prefers-color-scheme: dark)"/>
-        <source
-            srcset="https://github-readme-stats.vercel.app/api/pin/?username=smashedtoatoms&repo=asdf-postgres&show_owner=true"
-            media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"/>
-        <img
-            src="https://github-readme-stats.vercel.app/api/pin/?username=smashedtoatoms&repo=asdf-postgres&show_owner=true"/>
-      </picture>
-    </a>
-    <a href="https://github.com/cucumber/cucumber-rails/issues?q=author%3Akiskoza">
-      <picture>
-        <source
-            srcset="https://github-readme-stats.vercel.app/api/pin/?username=cucumber&repo=cucumber-rails&show_owner=true&theme=dark"
-            media="(prefers-color-scheme: dark)"/>
-        <source
-            srcset="https://github-readme-stats.vercel.app/api/pin/?username=cucumber&repo=cucumber-rails&show_owner=true"
-            media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"/>
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=cucumber&repo=cucumber-rails&show_owner=true"/>
       </picture>
     </a>
   </div>
