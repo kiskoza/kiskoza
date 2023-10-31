@@ -3,29 +3,42 @@
 <details open>
   <summary><h2>📘 My Recent Open Source Contributions</h2></summary>
 
-  <a href="https://github.com/caxlsx/caxlsx/issues?q=author%3Akiskoza">
-    <picture>
-      <source
-        srcset="https://github-readme-stats.vercel.app/api/pin/?username=caxlsx&repo=caxlsx&show_owner=true&theme=dark"
-        media="(prefers-color-scheme: dark)" />
-      <source
-        srcset="https://github-readme-stats.vercel.app/api/pin/?username=caxlsx&repo=caxlsx&show_owner=true"
-        media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" />
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=caxlsx&repo=caxlsx&show_owner=true" />
-    </picture>
-  </a>
+  <div style="display: flex; align-items: center; flex-flow: row wrap; justify-content: space-around;">
+    <a href="https://github.com/caxlsx/caxlsx/issues?q=author%3Akiskoza">
+      <picture>
+        <source
+          srcset="https://github-readme-stats.vercel.app/api/pin/?username=caxlsx&repo=caxlsx&show_owner=true&theme=dark"
+          media="(prefers-color-scheme: dark)" />
+        <source
+          srcset="https://github-readme-stats.vercel.app/api/pin/?username=caxlsx&repo=caxlsx&show_owner=true"
+          media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" />
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=caxlsx&repo=caxlsx&show_owner=true" />
+      </picture>
+    </a>
+    <a href="https://github.com/pulsar-edit/pulsar/issues?q=author%3Akiskoza">
+      <picture>
+        <source
+          srcset="https://github-readme-stats.vercel.app/api/pin/?username=pulsar-edit&repo=pulsar&show_owner=true&theme=dark"
+          media="(prefers-color-scheme: dark)" />
+        <source
+          srcset="https://github-readme-stats.vercel.app/api/pin/?username=pulsar-edit&repo=pulsar&show_owner=true"
+          media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" />
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=pulsar-edit&repo=pulsar&show_owner=true" />
+      </picture>
+    </a>
+    <a href="https://github.com/caxlsx/caxlsx_rails/issues?q=author%3Akiskoza">
+      <picture>
+        <source
+          srcset="https://github-readme-stats.vercel.app/api/pin/?username=caxlsx&repo=caxlsx_rails&show_owner=true&theme=dark"
+          media="(prefers-color-scheme: dark)" />
+        <source
+          srcset="https://github-readme-stats.vercel.app/api/pin/?username=caxlsx&repo=caxlsx_rails&show_owner=true"
+          media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" />
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=caxlsx&repo=caxlsx_rails&show_owner=true" />
+      </picture>
+    </a>
+  </div>
 
-  <a href="https://github.com/pulsar-edit/pulsar/issues?q=author%3Akiskoza">
-    <picture>
-      <source
-        srcset="https://github-readme-stats.vercel.app/api/pin/?username=pulsar-edit&repo=pulsar&show_owner=true&theme=dark"
-        media="(prefers-color-scheme: dark)" />
-      <source
-        srcset="https://github-readme-stats.vercel.app/api/pin/?username=pulsar-edit&repo=pulsar&show_owner=true"
-        media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" />
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=pulsar-edit&repo=pulsar&show_owner=true" />
-    </picture>
-  </a>
 </details>
 
 
