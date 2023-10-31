@@ -4,37 +4,37 @@
   <summary><h2>📘 My Recent Open Source Contributions</h2></summary>
 
   <div>
-    <a href="https://github.com/caxlsx/caxlsx/issues?q=author%3Akiskoza">
+    <a href="https://github.com/caxlsx/caxlsx/issues?q=author%3Akiskoza" border="solid 1px gray" height="150px">
       <picture>
         <source
-          srcset="https://github-readme-stats.vercel.app/api/pin/?username=caxlsx&repo=caxlsx&show_owner=true&theme=dark"
+          srcset="https://github-readme-stats.vercel.app/api/pin/?username=caxlsx&repo=caxlsx&show_owner=true&theme=dark&hide_border=true"
           media="(prefers-color-scheme: dark)" />
         <source
-          srcset="https://github-readme-stats.vercel.app/api/pin/?username=caxlsx&repo=caxlsx&show_owner=true"
+          srcset="https://github-readme-stats.vercel.app/api/pin/?username=caxlsx&repo=caxlsx&show_owner=true&hide_border=true"
           media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" />
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=caxlsx&repo=caxlsx&show_owner=true" />
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=caxlsx&repo=caxlsx&show_owner=true&hide_border=true" />
       </picture>
     </a>
-    <a href="https://github.com/pulsar-edit/pulsar/issues?q=author%3Akiskoza">
+    <a href="https://github.com/pulsar-edit/pulsar/issues?q=author%3Akiskoza" border="solid 1px gray" height="150px">
       <picture>
         <source
-          srcset="https://github-readme-stats.vercel.app/api/pin/?username=pulsar-edit&repo=pulsar&show_owner=true&theme=dark"
+          srcset="https://github-readme-stats.vercel.app/api/pin/?username=pulsar-edit&repo=pulsar&show_owner=true&theme=dark&hide_border=true"
           media="(prefers-color-scheme: dark)" />
         <source
-          srcset="https://github-readme-stats.vercel.app/api/pin/?username=pulsar-edit&repo=pulsar&show_owner=true"
+          srcset="https://github-readme-stats.vercel.app/api/pin/?username=pulsar-edit&repo=pulsar&show_owner=true&hide_border=true"
           media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" />
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=pulsar-edit&repo=pulsar&show_owner=true" />
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=pulsar-edit&repo=pulsar&show_owner=true&hide_border=true" />
       </picture>
     </a>
-    <a href="https://github.com/caxlsx/caxlsx_rails/issues?q=author%3Akiskoza">
+    <a href="https://github.com/caxlsx/caxlsx_rails/issues?q=author%3Akiskoza" border="solid 1px gray" height="150px">
       <picture>
         <source
-          srcset="https://github-readme-stats.vercel.app/api/pin/?username=caxlsx&repo=caxlsx_rails&show_owner=true&theme=dark"
+          srcset="https://github-readme-stats.vercel.app/api/pin/?username=caxlsx&repo=caxlsx_rails&show_owner=true&theme=dark&hide_border=true"
           media="(prefers-color-scheme: dark)" />
         <source
-          srcset="https://github-readme-stats.vercel.app/api/pin/?username=caxlsx&repo=caxlsx_rails&show_owner=true"
+          srcset="https://github-readme-stats.vercel.app/api/pin/?username=caxlsx&repo=caxlsx_rails&show_owner=true&hide_border=true"
           media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" />
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=caxlsx&repo=caxlsx_rails&show_owner=true" />
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=caxlsx&repo=caxlsx_rails&show_owner=true&hide_border=true" />
       </picture>
     </a>
   </div>
