@@ -4,7 +4,7 @@
   <summary><h2>📘 My Recent Open Source Contributions</h2></summary>
 
   <a href="https://github.com/caxlsx/caxlsx/issues?q=author%3Akiskoza">
-    <picture>
+    <picture height=200 align="center">
       <source
         srcset="https://github-readme-stats.vercel.app/api/pin/?username=caxlsx&repo=caxlsx&theme=dark"
         media="(prefers-color-scheme: dark)" />
@@ -16,7 +16,7 @@
   </a>
 
   <a href="https://github.com/pulsar-edit/pulsar/issues?q=author%3Akiskoza">
-    <picture>
+    <picture height=200 align="center">
       <source
         srcset="https://github-readme-stats.vercel.app/api/pin/?username=pulsar-edit&repo=pulsar&theme=dark"
         media="(prefers-color-scheme: dark)" />
