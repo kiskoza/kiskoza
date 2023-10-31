@@ -4,7 +4,7 @@
   <summary><h2>📘 My Recent Open Source Contributions</h2></summary>
 
   <div>
-    <a href="https://github.com/caxlsx/caxlsx/issues?q=author%3Akiskoza" border="solid 1px gray" height="150px">
+    <a href="https://github.com/caxlsx/caxlsx/issues?q=author%3Akiskoza" style="border: solid 1px gray;" height="150px">
       <picture>
         <source
           srcset="https://github-readme-stats.vercel.app/api/pin/?username=caxlsx&repo=caxlsx&show_owner=true&theme=dark&hide_border=true"
