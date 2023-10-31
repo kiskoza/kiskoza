@@ -1,6 +1,34 @@
 ### Hi there 👋
 
-## I help with open source
+<details open>
+  <summary><h2>📘 My Recent Open Source Contributions</h2></summary>
+
+  <a href="https://github.com/caxlsx/caxlsx/issues?q=author%3Akiskoza">
+    <picture>
+      <source
+        srcset="https://github-readme-stats.vercel.app/api/pin/?username=caxlsx&repo=caxlsx&theme=dark"
+        media="(prefers-color-scheme: dark)" />
+      <source
+        srcset="https://github-readme-stats.vercel.app/api/pin/?username=caxlsx&repo=caxlsx"
+        media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" />
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=caxlsx&repo=caxlsx" />
+    </picture>
+  </a>
+
+  <a href="https://github.com/pulsar-edit/pulsar/issues?q=author%3Akiskoza">
+    <picture>
+      <source
+        srcset="https://github-readme-stats.vercel.app/api/pin/?username=pulsar-edit&repo=pulsar&theme=dark"
+        media="(prefers-color-scheme: dark)" />
+      <source
+        srcset="https://github-readme-stats.vercel.app/api/pin/?username=pulsar-edit&repo=pulsar"
+        media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" />
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=pulsar-edit&repo=pulsar" />
+    </picture>
+  </a>
+</details>
+
+
 
 - [activity_notification](https://github.com/simukappu/activity_notification) <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg" alt="ruby" width="18" height="18"/>
   - [x] [#160](https://github.com/simukappu/activity_notification/pull/160) Configure default subscriptions for emails and optional targets
