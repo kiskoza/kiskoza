@@ -243,29 +243,6 @@
 
 </details>
 
-
-
-- [activity_notification](https://github.com/simukappu/activity_notification) <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg" alt="ruby" width="18" height="18"/>
-  - [x] [#160](https://github.com/simukappu/activity_notification/pull/160) Configure default subscriptions for emails and optional targets
-- [caxlsx](https://github.com/caxlsx/caxlsx) <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg" alt="ruby" width="18" height="18"/>
-  - [x] [#3](https://github.com/caxlsx/caxlsx/pull/3) Add caxlsx.rb to make auto require work
-  - [x] [#40](https://github.com/caxlsx/caxlsx/pull/40) Escape characters in charts
-  - [x] [#41](https://github.com/caxlsx/caxlsx/pull/41) Remove global variables from example
-  - [x] [#47](https://github.com/caxlsx/caxlsx/pull/47) Restructure examples folder
-  - [x] [#80](https://github.com/caxlsx/caxlsx/pull/80) Add conditional formatting example for text equality
-  - [x] [#81](https://github.com/caxlsx/caxlsx/pull/81) Add option to define a color for the BarSeries
-- [marcel](https://github.com/rails/marcel) <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg" alt="ruby" width="18" height="18"/>
-  - [x] [#58](https://github.com/rails/marcel/pull/58) Fix audio/webm files
-- [Minecraft-Overviewer](https://github.com/overviewer/Minecraft-Overviewer) <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="18" height="18"/>
-  - [x] [#1186](https://github.com/overviewer/Minecraft-Overviewer/pull/1186) Regions fixed
-- [rubocop-graphql](https://github.com/DmitryTsepelev/rubocop-graphql) <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg" alt="ruby" width="18" height="18"/>
-  - [x] [#25](https://github.com/DmitryTsepelev/rubocop-graphql/pull/25) Implement OrderedFields cop
-  - [ ] [#30](https://github.com/DmitryTsepelev/rubocop-graphql/issues/30) Nesting resolvers of the same type
-  - [x] [#33](https://github.com/DmitryTsepelev/rubocop-graphql/pull/33) Implement autocorrect for OrderedFields cop
-  - [x] [#34](https://github.com/DmitryTsepelev/rubocop-graphql/pull/34) Implement OrderedArguments cop
-- [rust-wasm-webpack](https://github.com/yamafaktory/rust-wasm-webpack) <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-plain.svg" alt="rust" width="18" height="18"/>
-  - [x] [#7](https://github.com/yamafaktory/rust-wasm-webpack/pull/7) Make it work in Chrome
-
 ## I try new things
 
 - [elo-point-system](https://github.com/kiskoza/elo-point-system) <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-plain.svg" alt="rust" width="18" height="18"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/webpack/webpack-original.svg" alt="webpack" width="18" height="18"/>
