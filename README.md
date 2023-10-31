@@ -183,17 +183,6 @@
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=denysdovhan&repo=vacuum-card&show_owner=true"/>
       </picture>
     </a>
-    <a href="https://github.com/sass/node-sass/issues?q=author%3Akiskoza">
-      <picture>
-        <source
-            srcset="https://github-readme-stats.vercel.app/api/pin/?username=sass&repo=node-sass&show_owner=true&theme=dark"
-            media="(prefers-color-scheme: dark)"/>
-        <source
-            srcset="https://github-readme-stats.vercel.app/api/pin/?username=sass&repo=node-sass&show_owner=true"
-            media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"/>
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=sass&repo=node-sass&show_owner=true"/>
-      </picture>
-    </a>
     <a href="https://github.com/xzyfer/sass-graph/issues?q=author%3Akiskoza">
       <picture>
         <source
