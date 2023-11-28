@@ -1,0 +1,37 @@
+### Hi there 👋
+
+<details open>
+  <summary><h2>📘 My Recent Open Source Contributions</h2></summary>
+
+  <div><% recent_repos.each do |owner, repo| %>
+    <a href="https://github.com/<%= owner %>/<%= repo %>/issues?q=author%3Akiskoza">
+      <picture>
+        <source
+            srcset="https://github-readme-stats.vercel.app/api/pin/?username=<%= owner %>&repo=<%= repo %>&show_owner=true&description_lines_count=2&theme=dark"
+            media="(prefers-color-scheme: dark)"/>
+        <source
+            srcset="https://github-readme-stats.vercel.app/api/pin/?username=<%= owner %>&repo=<%= repo %>&show_owner=true&description_lines_count=2"
+            media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"/>
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=<%= owner %>&repo=<%= repo %>&show_owner=true&description_lines_count=2"/>
+      </picture>
+    </a><% end %>
+  </div>
+
+</details>
+
+<details open>
+  <summary><h2>🔨 My Experimental Repos</h2></summary>
+
+  <div><% experimental_repos.each do |repo| %>
+    <a href="https://github.com/kiskoza/<%= repo %>">
+      <picture>
+        <source
+            srcset="https://github-readme-stats.vercel.app/api/pin/?username=kiskoza&repo=<%= repo %>&show_owner=false&description_lines_count=2&theme=dark"
+            media="(prefers-color-scheme: dark)"/>
+        <source
+            srcset="https://github-readme-stats.vercel.app/api/pin/?username=kiskoza&repo=<%= repo %>&show_owner=false&description_lines_count=2"
+            media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"/>
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=kiskoza&repo=<%= repo %>&show_owner=false&description_lines_count=2"/>
+      </picture>
+    </a><% end %>
+</details
