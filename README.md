@@ -114,17 +114,6 @@
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=grosser&repo=parallel_tests&show_owner=true&description_lines_count=3"/>
       </picture>
     </a>
-    <a href="https://github.com/willnet/committee-rails/issues?q=author%3Akiskoza">
-      <picture>
-        <source
-            srcset="https://github-readme-stats.vercel.app/api/pin/?username=willnet&repo=committee-rails&show_owner=true&description_lines_count=3&theme=dark"
-            media="(prefers-color-scheme: dark)"/>
-        <source
-            srcset="https://github-readme-stats.vercel.app/api/pin/?username=willnet&repo=committee-rails&show_owner=true&description_lines_count=3"
-            media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"/>
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=willnet&repo=committee-rails&show_owner=true&description_lines_count=3"/>
-      </picture>
-    </a>
     <a href="https://github.com/simukappu/activity_notification/issues?q=author%3Akiskoza">
       <picture>
         <source
