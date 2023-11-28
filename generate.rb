@@ -45,5 +45,5 @@ recent_repositories = Faraday
 
 
 File.read('README.md.erb')
-.then { ERB.new(_1).result(binding) }
-.then { File.write('README.md', _1) }
+  .then { ERB.new(_1).result(binding) }
+  .then { File.write('README.md', _1) }
