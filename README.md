@@ -4,230 +4,247 @@
   <summary><h2>📘 My Recent Open Source Contributions</h2></summary>
 
   <div>
-    <a href="https://github.com/caxlsx/caxlsx/issues?q=author%3Akiskoza">
-      <picture>
-        <source
-            srcset="https://github-readme-stats.vercel.app/api/pin/?username=caxlsx&repo=caxlsx&show_owner=true&theme=dark"
-            media="(prefers-color-scheme: dark)"/>
-        <source
-            srcset="https://github-readme-stats.vercel.app/api/pin/?username=caxlsx&repo=caxlsx&show_owner=true"
-            media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"/>
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=caxlsx&repo=caxlsx&show_owner=true"/>
-      </picture>
-    </a>
-    <a href="https://github.com/pulsar-edit/pulsar/issues?q=author%3Akiskoza">
-      <picture>
-        <source
-            srcset="https://github-readme-stats.vercel.app/api/pin/?username=pulsar-edit&repo=pulsar&show_owner=true&theme=dark"
-            media="(prefers-color-scheme: dark)"/>
-        <source
-            srcset="https://github-readme-stats.vercel.app/api/pin/?username=pulsar-edit&repo=pulsar&show_owner=true"
-            media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"/>
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=pulsar-edit&repo=pulsar&show_owner=true"/>
-      </picture>
-    </a>
-    <a href="https://github.com/DarthSim/overmind/issues?q=author%3Akiskoza">
-      <picture>
-        <source
-            srcset="https://github-readme-stats.vercel.app/api/pin/?username=DarthSim&repo=overmind&show_owner=true&theme=dark"
-            media="(prefers-color-scheme: dark)"/>
-        <source
-            srcset="https://github-readme-stats.vercel.app/api/pin/?username=DarthSim&repo=overmind&show_owner=true"
-            media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"/>
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=DarthSim&repo=overmind&show_owner=true"/>
-      </picture>
-    </a>
-    <a href="https://github.com/caxlsx/caxlsx_rails/issues?q=author%3Akiskoza">
-      <picture>
-        <source
-            srcset="https://github-readme-stats.vercel.app/api/pin/?username=caxlsx&repo=caxlsx_rails&show_owner=true&theme=dark"
-            media="(prefers-color-scheme: dark)"/>
-        <source
-            srcset="https://github-readme-stats.vercel.app/api/pin/?username=caxlsx&repo=caxlsx_rails&show_owner=true"
-            media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"/>
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=caxlsx&repo=caxlsx_rails&show_owner=true"/>
-      </picture>
-    </a>
-    <a href="https://github.com/hotwired/turbo-android/issues?q=author%3Akiskoza">
-      <picture>
-        <source
-            srcset="https://github-readme-stats.vercel.app/api/pin/?username=hotwired&repo=turbo-android&show_owner=true&theme=dark"
-            media="(prefers-color-scheme: dark)"/>
-        <source
-            srcset="https://github-readme-stats.vercel.app/api/pin/?username=hotwired&repo=turbo-android&show_owner=true"
-            media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"/>
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=hotwired&repo=turbo-android&show_owner=true"/>
-      </picture>
-    </a>
-    <a href="https://github.com/filestack/filestack-js/issues?q=author%3Akiskoza">
-      <picture>
-        <source
-            srcset="https://github-readme-stats.vercel.app/api/pin/?username=filestack&repo=filestack-js&show_owner=true&theme=dark"
-            media="(prefers-color-scheme: dark)"/>
-        <source
-            srcset="https://github-readme-stats.vercel.app/api/pin/?username=filestack&repo=filestack-js&show_owner=true"
-            media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"/>
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=filestack&repo=filestack-js&show_owner=true"/>
-      </picture>
-    </a>
-    <a href="https://github.com/mhanberg/lazyasdf/issues?q=author%3Akiskoza">
-      <picture>
-        <source
-            srcset="https://github-readme-stats.vercel.app/api/pin/?username=mhanberg&repo=lazyasdf&show_owner=true&theme=dark"
-            media="(prefers-color-scheme: dark)"/>
-        <source
-            srcset="https://github-readme-stats.vercel.app/api/pin/?username=mhanberg&repo=lazyasdf&show_owner=true"
-            media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"/>
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=mhanberg&repo=lazyasdf&show_owner=true"/>
-      </picture>
-    </a>
-    <a href="https://github.com/alxlion/eyeloupe/issues?q=author%3Akiskoza">
-      <picture>
-        <source
-            srcset="https://github-readme-stats.vercel.app/api/pin/?username=alxlion&repo=eyeloupe&show_owner=true&theme=dark"
-            media="(prefers-color-scheme: dark)"/>
-        <source
-            srcset="https://github-readme-stats.vercel.app/api/pin/?username=alxlion&repo=eyeloupe&show_owner=true"
-            media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"/>
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=alxlion&repo=eyeloupe&show_owner=true"/>
-      </picture>
-    </a>
-    <a href="https://github.com/kiskoza/Above-and-Beyond/issues?q=author%3Akiskoza">
-      <picture>
-        <source
-            srcset="https://github-readme-stats.vercel.app/api/pin/?username=kiskoza&repo=Above-and-Beyond&show_owner=true&theme=dark"
-            media="(prefers-color-scheme: dark)"/>
-        <source
-            srcset="https://github-readme-stats.vercel.app/api/pin/?username=kiskoza&repo=Above-and-Beyond&show_owner=true"
-            media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"/>
-        <img
-            src="https://github-readme-stats.vercel.app/api/pin/?username=kiskoza&repo=Above-and-Beyond&show_owner=true"/>
-      </picture>
-    </a>
-    <a href="https://github.com/grosser/parallel_tests/issues?q=author%3Akiskoza">
-      <picture>
-        <source
-            srcset="https://github-readme-stats.vercel.app/api/pin/?username=grosser&repo=parallel_tests&show_owner=true&theme=dark"
-            media="(prefers-color-scheme: dark)"/>
-        <source
-            srcset="https://github-readme-stats.vercel.app/api/pin/?username=grosser&repo=parallel_tests&show_owner=true"
-            media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"/>
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=grosser&repo=parallel_tests&show_owner=true"/>
-      </picture>
-    </a>
-    <a href="https://github.com/willnet/committee-rails/issues?q=author%3Akiskoza">
-      <picture>
-        <source
-            srcset="https://github-readme-stats.vercel.app/api/pin/?username=willnet&repo=committee-rails&show_owner=true&theme=dark"
-            media="(prefers-color-scheme: dark)"/>
-        <source
-            srcset="https://github-readme-stats.vercel.app/api/pin/?username=willnet&repo=committee-rails&show_owner=true"
-            media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"/>
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=willnet&repo=committee-rails&show_owner=true"/>
-      </picture>
-    </a>
-    <a href="https://github.com/simukappu/activity_notification/issues?q=author%3Akiskoza">
-      <picture>
-        <source
-            srcset="https://github-readme-stats.vercel.app/api/pin/?username=simukappu&repo=activity_notification&show_owner=true&theme=dark"
-            media="(prefers-color-scheme: dark)"/>
-        <source
-            srcset="https://github-readme-stats.vercel.app/api/pin/?username=simukappu&repo=activity_notification&show_owner=true"
-            media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"/>
-        <img
-            src="https://github-readme-stats.vercel.app/api/pin/?username=simukappu&repo=activity_notification&show_owner=true"/>
-      </picture>
-    </a>
-    <a href="https://github.com/fnando/i18n/issues?q=author%3Akiskoza">
-      <picture>
-        <source
-            srcset="https://github-readme-stats.vercel.app/api/pin/?username=fnando&repo=i18n&show_owner=true&theme=dark"
-            media="(prefers-color-scheme: dark)"/>
-        <source
-            srcset="https://github-readme-stats.vercel.app/api/pin/?username=fnando&repo=i18n&show_owner=true"
-            media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"/>
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=fnando&repo=i18n&show_owner=true"/>
-      </picture>
-    </a>
-    <a href="https://github.com/faker-ruby/faker/issues?q=author%3Akiskoza">
-      <picture>
-        <source
-            srcset="https://github-readme-stats.vercel.app/api/pin/?username=faker-ruby&repo=faker&show_owner=true&theme=dark"
-            media="(prefers-color-scheme: dark)"/>
-        <source
-            srcset="https://github-readme-stats.vercel.app/api/pin/?username=faker-ruby&repo=faker&show_owner=true"
-            media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"/>
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=faker-ruby&repo=faker&show_owner=true"/>
-      </picture>
-    </a>
-    <a href="https://github.com/github/advisory-database/issues?q=author%3Akiskoza">
-      <picture>
-        <source
-            srcset="https://github-readme-stats.vercel.app/api/pin/?username=github&repo=advisory-database&show_owner=true&theme=dark"
-            media="(prefers-color-scheme: dark)"/>
-        <source
-            srcset="https://github-readme-stats.vercel.app/api/pin/?username=github&repo=advisory-database&show_owner=true"
-            media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"/>
-        <img
-            src="https://github-readme-stats.vercel.app/api/pin/?username=github&repo=advisory-database&show_owner=true"/>
-      </picture>
-    </a>
-    <a href="https://github.com/denysdovhan/vacuum-card/issues?q=author%3Akiskoza">
-      <picture>
-        <source
-            srcset="https://github-readme-stats.vercel.app/api/pin/?username=denysdovhan&repo=vacuum-card&show_owner=true&theme=dark"
-            media="(prefers-color-scheme: dark)"/>
-        <source
-            srcset="https://github-readme-stats.vercel.app/api/pin/?username=denysdovhan&repo=vacuum-card&show_owner=true"
-            media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"/>
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=denysdovhan&repo=vacuum-card&show_owner=true"/>
-      </picture>
-    </a>
-    <a href="https://github.com/xzyfer/sass-graph/issues?q=author%3Akiskoza">
-      <picture>
-        <source
-            srcset="https://github-readme-stats.vercel.app/api/pin/?username=xzyfer&repo=sass-graph&show_owner=true&theme=dark"
-            media="(prefers-color-scheme: dark)"/>
-        <source
-            srcset="https://github-readme-stats.vercel.app/api/pin/?username=xzyfer&repo=sass-graph&show_owner=true"
-            media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"/>
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=xzyfer&repo=sass-graph&show_owner=true"/>
-      </picture>
-    </a>
-    <a href="https://github.com/tokland/arch-bootstrap/issues?q=author%3Akiskoza">
-      <picture>
-        <source
-            srcset="https://github-readme-stats.vercel.app/api/pin/?username=tokland&repo=arch-bootstrap&show_owner=true&theme=dark"
-            media="(prefers-color-scheme: dark)"/>
-        <source
-            srcset="https://github-readme-stats.vercel.app/api/pin/?username=tokland&repo=arch-bootstrap&show_owner=true"
-            media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"/>
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=tokland&repo=arch-bootstrap&show_owner=true"/>
-      </picture>
-    </a>
-    <a href="https://github.com/rails/marcel/issues?q=author%3Akiskoza">
-      <picture>
-        <source
-            srcset="https://github-readme-stats.vercel.app/api/pin/?username=rails&repo=marcel&show_owner=true&theme=dark"
-            media="(prefers-color-scheme: dark)"/>
-        <source
-            srcset="https://github-readme-stats.vercel.app/api/pin/?username=rails&repo=marcel&show_owner=true"
-            media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"/>
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=rails&repo=marcel&show_owner=true"/>
-      </picture>
-    </a>
-    <a href="https://github.com/DmitryTsepelev/rubocop-graphql/issues?q=author%3Akiskoza">
-      <picture>
-        <source
-            srcset="https://github-readme-stats.vercel.app/api/pin/?username=DmitryTsepelev&repo=rubocop-graphql&show_owner=true&theme=dark"
-            media="(prefers-color-scheme: dark)"/>
-        <source
-            srcset="https://github-readme-stats.vercel.app/api/pin/?username=DmitryTsepelev&repo=rubocop-graphql&show_owner=true"
-            media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"/>
-        <img
-            src="https://github-readme-stats.vercel.app/api/pin/?username=DmitryTsepelev&repo=rubocop-graphql&show_owner=true"/>
-      </picture>
-    </a>
+    
+      <a href="https://github.com/caxlsx/caxlsx/issues?q=author%3Akiskoza">
+        <picture>
+          <source
+              srcset="https://github-readme-stats.vercel.app/api/pin/?username=caxlsx&repo=caxlsx&show_owner=true&theme=dark"
+              media="(prefers-color-scheme: dark)"/>
+          <source
+              srcset="https://github-readme-stats.vercel.app/api/pin/?username=caxlsx&repo=caxlsx&show_owner=true"
+              media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"/>
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=caxlsx&repo=caxlsx&show_owner=true"/>
+        </picture>
+      </a>
+    
+      <a href="https://github.com/pulsar-edit/pulsar/issues?q=author%3Akiskoza">
+        <picture>
+          <source
+              srcset="https://github-readme-stats.vercel.app/api/pin/?username=pulsar-edit&repo=pulsar&show_owner=true&theme=dark"
+              media="(prefers-color-scheme: dark)"/>
+          <source
+              srcset="https://github-readme-stats.vercel.app/api/pin/?username=pulsar-edit&repo=pulsar&show_owner=true"
+              media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"/>
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=pulsar-edit&repo=pulsar&show_owner=true"/>
+        </picture>
+      </a>
+    
+      <a href="https://github.com/DarthSim/overmind/issues?q=author%3Akiskoza">
+        <picture>
+          <source
+              srcset="https://github-readme-stats.vercel.app/api/pin/?username=DarthSim&repo=overmind&show_owner=true&theme=dark"
+              media="(prefers-color-scheme: dark)"/>
+          <source
+              srcset="https://github-readme-stats.vercel.app/api/pin/?username=DarthSim&repo=overmind&show_owner=true"
+              media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"/>
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=DarthSim&repo=overmind&show_owner=true"/>
+        </picture>
+      </a>
+    
+      <a href="https://github.com/caxlsx/caxlsx_rails/issues?q=author%3Akiskoza">
+        <picture>
+          <source
+              srcset="https://github-readme-stats.vercel.app/api/pin/?username=caxlsx&repo=caxlsx_rails&show_owner=true&theme=dark"
+              media="(prefers-color-scheme: dark)"/>
+          <source
+              srcset="https://github-readme-stats.vercel.app/api/pin/?username=caxlsx&repo=caxlsx_rails&show_owner=true"
+              media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"/>
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=caxlsx&repo=caxlsx_rails&show_owner=true"/>
+        </picture>
+      </a>
+    
+      <a href="https://github.com/hotwired/turbo-android/issues?q=author%3Akiskoza">
+        <picture>
+          <source
+              srcset="https://github-readme-stats.vercel.app/api/pin/?username=hotwired&repo=turbo-android&show_owner=true&theme=dark"
+              media="(prefers-color-scheme: dark)"/>
+          <source
+              srcset="https://github-readme-stats.vercel.app/api/pin/?username=hotwired&repo=turbo-android&show_owner=true"
+              media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"/>
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=hotwired&repo=turbo-android&show_owner=true"/>
+        </picture>
+      </a>
+    
+      <a href="https://github.com/filestack/filestack-js/issues?q=author%3Akiskoza">
+        <picture>
+          <source
+              srcset="https://github-readme-stats.vercel.app/api/pin/?username=filestack&repo=filestack-js&show_owner=true&theme=dark"
+              media="(prefers-color-scheme: dark)"/>
+          <source
+              srcset="https://github-readme-stats.vercel.app/api/pin/?username=filestack&repo=filestack-js&show_owner=true"
+              media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"/>
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=filestack&repo=filestack-js&show_owner=true"/>
+        </picture>
+      </a>
+    
+      <a href="https://github.com/mhanberg/lazyasdf/issues?q=author%3Akiskoza">
+        <picture>
+          <source
+              srcset="https://github-readme-stats.vercel.app/api/pin/?username=mhanberg&repo=lazyasdf&show_owner=true&theme=dark"
+              media="(prefers-color-scheme: dark)"/>
+          <source
+              srcset="https://github-readme-stats.vercel.app/api/pin/?username=mhanberg&repo=lazyasdf&show_owner=true"
+              media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"/>
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=mhanberg&repo=lazyasdf&show_owner=true"/>
+        </picture>
+      </a>
+    
+      <a href="https://github.com/alxlion/eyeloupe/issues?q=author%3Akiskoza">
+        <picture>
+          <source
+              srcset="https://github-readme-stats.vercel.app/api/pin/?username=alxlion&repo=eyeloupe&show_owner=true&theme=dark"
+              media="(prefers-color-scheme: dark)"/>
+          <source
+              srcset="https://github-readme-stats.vercel.app/api/pin/?username=alxlion&repo=eyeloupe&show_owner=true"
+              media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"/>
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=alxlion&repo=eyeloupe&show_owner=true"/>
+        </picture>
+      </a>
+    
+      <a href="https://github.com/kiskoza/Above-and-Beyond/issues?q=author%3Akiskoza">
+        <picture>
+          <source
+              srcset="https://github-readme-stats.vercel.app/api/pin/?username=kiskoza&repo=Above-and-Beyond&show_owner=true&theme=dark"
+              media="(prefers-color-scheme: dark)"/>
+          <source
+              srcset="https://github-readme-stats.vercel.app/api/pin/?username=kiskoza&repo=Above-and-Beyond&show_owner=true"
+              media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"/>
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=kiskoza&repo=Above-and-Beyond&show_owner=true"/>
+        </picture>
+      </a>
+    
+      <a href="https://github.com/grosser/parallel_tests/issues?q=author%3Akiskoza">
+        <picture>
+          <source
+              srcset="https://github-readme-stats.vercel.app/api/pin/?username=grosser&repo=parallel_tests&show_owner=true&theme=dark"
+              media="(prefers-color-scheme: dark)"/>
+          <source
+              srcset="https://github-readme-stats.vercel.app/api/pin/?username=grosser&repo=parallel_tests&show_owner=true"
+              media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"/>
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=grosser&repo=parallel_tests&show_owner=true"/>
+        </picture>
+      </a>
+    
+      <a href="https://github.com/willnet/committee-rails/issues?q=author%3Akiskoza">
+        <picture>
+          <source
+              srcset="https://github-readme-stats.vercel.app/api/pin/?username=willnet&repo=committee-rails&show_owner=true&theme=dark"
+              media="(prefers-color-scheme: dark)"/>
+          <source
+              srcset="https://github-readme-stats.vercel.app/api/pin/?username=willnet&repo=committee-rails&show_owner=true"
+              media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"/>
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=willnet&repo=committee-rails&show_owner=true"/>
+        </picture>
+      </a>
+    
+      <a href="https://github.com/simukappu/activity_notification/issues?q=author%3Akiskoza">
+        <picture>
+          <source
+              srcset="https://github-readme-stats.vercel.app/api/pin/?username=simukappu&repo=activity_notification&show_owner=true&theme=dark"
+              media="(prefers-color-scheme: dark)"/>
+          <source
+              srcset="https://github-readme-stats.vercel.app/api/pin/?username=simukappu&repo=activity_notification&show_owner=true"
+              media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"/>
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=simukappu&repo=activity_notification&show_owner=true"/>
+        </picture>
+      </a>
+    
+      <a href="https://github.com/fnando/i18n/issues?q=author%3Akiskoza">
+        <picture>
+          <source
+              srcset="https://github-readme-stats.vercel.app/api/pin/?username=fnando&repo=i18n&show_owner=true&theme=dark"
+              media="(prefers-color-scheme: dark)"/>
+          <source
+              srcset="https://github-readme-stats.vercel.app/api/pin/?username=fnando&repo=i18n&show_owner=true"
+              media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"/>
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=fnando&repo=i18n&show_owner=true"/>
+        </picture>
+      </a>
+    
+      <a href="https://github.com/faker-ruby/faker/issues?q=author%3Akiskoza">
+        <picture>
+          <source
+              srcset="https://github-readme-stats.vercel.app/api/pin/?username=faker-ruby&repo=faker&show_owner=true&theme=dark"
+              media="(prefers-color-scheme: dark)"/>
+          <source
+              srcset="https://github-readme-stats.vercel.app/api/pin/?username=faker-ruby&repo=faker&show_owner=true"
+              media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"/>
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=faker-ruby&repo=faker&show_owner=true"/>
+        </picture>
+      </a>
+    
+      <a href="https://github.com/github/advisory-database/issues?q=author%3Akiskoza">
+        <picture>
+          <source
+              srcset="https://github-readme-stats.vercel.app/api/pin/?username=github&repo=advisory-database&show_owner=true&theme=dark"
+              media="(prefers-color-scheme: dark)"/>
+          <source
+              srcset="https://github-readme-stats.vercel.app/api/pin/?username=github&repo=advisory-database&show_owner=true"
+              media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"/>
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=github&repo=advisory-database&show_owner=true"/>
+        </picture>
+      </a>
+    
+      <a href="https://github.com/denysdovhan/vacuum-card/issues?q=author%3Akiskoza">
+        <picture>
+          <source
+              srcset="https://github-readme-stats.vercel.app/api/pin/?username=denysdovhan&repo=vacuum-card&show_owner=true&theme=dark"
+              media="(prefers-color-scheme: dark)"/>
+          <source
+              srcset="https://github-readme-stats.vercel.app/api/pin/?username=denysdovhan&repo=vacuum-card&show_owner=true"
+              media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"/>
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=denysdovhan&repo=vacuum-card&show_owner=true"/>
+        </picture>
+      </a>
+    
+      <a href="https://github.com/xzyfer/sass-graph/issues?q=author%3Akiskoza">
+        <picture>
+          <source
+              srcset="https://github-readme-stats.vercel.app/api/pin/?username=xzyfer&repo=sass-graph&show_owner=true&theme=dark"
+              media="(prefers-color-scheme: dark)"/>
+          <source
+              srcset="https://github-readme-stats.vercel.app/api/pin/?username=xzyfer&repo=sass-graph&show_owner=true"
+              media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"/>
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=xzyfer&repo=sass-graph&show_owner=true"/>
+        </picture>
+      </a>
+    
+      <a href="https://github.com/tokland/arch-bootstrap/issues?q=author%3Akiskoza">
+        <picture>
+          <source
+              srcset="https://github-readme-stats.vercel.app/api/pin/?username=tokland&repo=arch-bootstrap&show_owner=true&theme=dark"
+              media="(prefers-color-scheme: dark)"/>
+          <source
+              srcset="https://github-readme-stats.vercel.app/api/pin/?username=tokland&repo=arch-bootstrap&show_owner=true"
+              media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"/>
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=tokland&repo=arch-bootstrap&show_owner=true"/>
+        </picture>
+      </a>
+    
+      <a href="https://github.com/rails/marcel/issues?q=author%3Akiskoza">
+        <picture>
+          <source
+              srcset="https://github-readme-stats.vercel.app/api/pin/?username=rails&repo=marcel&show_owner=true&theme=dark"
+              media="(prefers-color-scheme: dark)"/>
+          <source
+              srcset="https://github-readme-stats.vercel.app/api/pin/?username=rails&repo=marcel&show_owner=true"
+              media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"/>
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=rails&repo=marcel&show_owner=true"/>
+        </picture>
+      </a>
+    
+      <a href="https://github.com/DmitryTsepelev/rubocop-graphql/issues?q=author%3Akiskoza">
+        <picture>
+          <source
+              srcset="https://github-readme-stats.vercel.app/api/pin/?username=DmitryTsepelev&repo=rubocop-graphql&show_owner=true&theme=dark"
+              media="(prefers-color-scheme: dark)"/>
+          <source
+              srcset="https://github-readme-stats.vercel.app/api/pin/?username=DmitryTsepelev&repo=rubocop-graphql&show_owner=true"
+              media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"/>
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=DmitryTsepelev&repo=rubocop-graphql&show_owner=true"/>
+        </picture>
+      </a>
+    
   </div>
 
 </details>
