@@ -29,7 +29,7 @@ GQL
 
 ignored_repos = File.open('ignored_repos.list').readlines.map(&:strip)
 
-recent_repositories = Faraday
+recent_repos = Faraday
   .new(url: 'https://api.github.com/graphql',
        headers: {
          'Content-Type' => 'application/json',
@@ -43,6 +43,8 @@ recent_repositories = Faraday
   .uniq
   .map { _1.split('/') }
   .first(8)
+
+experimental_repos = File.open('experimental_repos.list').readlines.map(&:strip)
 
 
 File.read('README.md.erb')

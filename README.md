@@ -96,10 +96,74 @@
 
 </details>
 
-## I try new things
+<details open>
+  <summary><h2>🔨 My Experimental Repos</h2></summary>
 
-- [elo-point-system](https://github.com/kiskoza/elo-point-system) <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-plain.svg" alt="rust" width="18" height="18"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/webpack/webpack-original.svg" alt="webpack" width="18" height="18"/>
-- [heroku-buildpacks-demo](https://github.com/kiskoza/heroku-buildpacks-demo) <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/heroku/heroku-original.svg" alt="heroku" width="18" height="18"/>
-- [motion-led](https://github.com/kiskoza/motion-led) <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cpp" width="18" height="18"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="html5" width="18" height="18"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="18" height="18"/>
-- [pass-outdated](https://github.com/kiskoza/pass-outdated) <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" alt="bash" width="18" height="18"/>
-- [xfce4-spotify-plugin](https://github.com/kiskoza/xfce4-spotify-plugin) <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ubuntu/ubuntu-plain.svg" alt="ubuntu" width="18" height="18"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg" alt="ruby" width="18" height="18"/>
+  <div>
+    <a href="https://github.com/kiskoza/lazy_overmind">
+      <picture>
+        <source
+            srcset="https://github-readme-stats.vercel.app/api/pin/?username=kiskoza&repo=lazy_overmind&show_owner=false&description_lines_count=2&theme=dark"
+            media="(prefers-color-scheme: dark)"/>
+        <source
+            srcset="https://github-readme-stats.vercel.app/api/pin/?username=kiskoza&repo=lazy_overmind&show_owner=false&description_lines_count=2"
+            media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"/>
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=kiskoza&repo=lazy_overmind&show_owner=false&description_lines_count=2"/>
+      </picture>
+    </a>
+    <a href="https://github.com/kiskoza/rustlings">
+      <picture>
+        <source
+            srcset="https://github-readme-stats.vercel.app/api/pin/?username=kiskoza&repo=rustlings&show_owner=false&description_lines_count=2&theme=dark"
+            media="(prefers-color-scheme: dark)"/>
+        <source
+            srcset="https://github-readme-stats.vercel.app/api/pin/?username=kiskoza&repo=rustlings&show_owner=false&description_lines_count=2"
+            media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"/>
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=kiskoza&repo=rustlings&show_owner=false&description_lines_count=2"/>
+      </picture>
+    </a>
+    <a href="https://github.com/kiskoza/dev-containers">
+      <picture>
+        <source
+            srcset="https://github-readme-stats.vercel.app/api/pin/?username=kiskoza&repo=dev-containers&show_owner=false&description_lines_count=2&theme=dark"
+            media="(prefers-color-scheme: dark)"/>
+        <source
+            srcset="https://github-readme-stats.vercel.app/api/pin/?username=kiskoza&repo=dev-containers&show_owner=false&description_lines_count=2"
+            media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"/>
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=kiskoza&repo=dev-containers&show_owner=false&description_lines_count=2"/>
+      </picture>
+    </a>
+    <a href="https://github.com/kiskoza/bootstrap-view_component">
+      <picture>
+        <source
+            srcset="https://github-readme-stats.vercel.app/api/pin/?username=kiskoza&repo=bootstrap-view_component&show_owner=false&description_lines_count=2&theme=dark"
+            media="(prefers-color-scheme: dark)"/>
+        <source
+            srcset="https://github-readme-stats.vercel.app/api/pin/?username=kiskoza&repo=bootstrap-view_component&show_owner=false&description_lines_count=2"
+            media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"/>
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=kiskoza&repo=bootstrap-view_component&show_owner=false&description_lines_count=2"/>
+      </picture>
+    </a>
+    <a href="https://github.com/kiskoza/home-assistant-engine">
+      <picture>
+        <source
+            srcset="https://github-readme-stats.vercel.app/api/pin/?username=kiskoza&repo=home-assistant-engine&show_owner=false&description_lines_count=2&theme=dark"
+            media="(prefers-color-scheme: dark)"/>
+        <source
+            srcset="https://github-readme-stats.vercel.app/api/pin/?username=kiskoza&repo=home-assistant-engine&show_owner=false&description_lines_count=2"
+            media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"/>
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=kiskoza&repo=home-assistant-engine&show_owner=false&description_lines_count=2"/>
+      </picture>
+    </a>
+    <a href="https://github.com/kiskoza/pass-outdated">
+      <picture>
+        <source
+            srcset="https://github-readme-stats.vercel.app/api/pin/?username=kiskoza&repo=pass-outdated&show_owner=false&description_lines_count=2&theme=dark"
+            media="(prefers-color-scheme: dark)"/>
+        <source
+            srcset="https://github-readme-stats.vercel.app/api/pin/?username=kiskoza&repo=pass-outdated&show_owner=false&description_lines_count=2"
+            media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"/>
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=kiskoza&repo=pass-outdated&show_owner=false&description_lines_count=2"/>
+      </picture>
+    </a>
+</details
