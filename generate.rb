@@ -42,6 +42,7 @@ recent_repositories = Faraday
   .reject { ignored_repos.include?(_1) }
   .uniq
   .map { _1.split('/') }
+  .first(8)
 
 
 File.read('README.md.erb')
