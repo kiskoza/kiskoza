@@ -15,6 +15,28 @@
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=caxlsx&repo=caxlsx&show_owner=true&description_lines_count=2"/>
       </picture>
     </a>
+    <a href="https://github.com/jnunemaker/crack/issues?q=author%3Akiskoza">
+      <picture>
+        <source
+            srcset="https://github-readme-stats.vercel.app/api/pin/?username=jnunemaker&repo=crack&show_owner=true&description_lines_count=2&theme=dark"
+            media="(prefers-color-scheme: dark)"/>
+        <source
+            srcset="https://github-readme-stats.vercel.app/api/pin/?username=jnunemaker&repo=crack&show_owner=true&description_lines_count=2"
+            media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"/>
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=jnunemaker&repo=crack&show_owner=true&description_lines_count=2"/>
+      </picture>
+    </a>
+    <a href="https://github.com/caxlsx/caxlsx_rails/issues?q=author%3Akiskoza">
+      <picture>
+        <source
+            srcset="https://github-readme-stats.vercel.app/api/pin/?username=caxlsx&repo=caxlsx_rails&show_owner=true&description_lines_count=2&theme=dark"
+            media="(prefers-color-scheme: dark)"/>
+        <source
+            srcset="https://github-readme-stats.vercel.app/api/pin/?username=caxlsx&repo=caxlsx_rails&show_owner=true&description_lines_count=2"
+            media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"/>
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=caxlsx&repo=caxlsx_rails&show_owner=true&description_lines_count=2"/>
+      </picture>
+    </a>
     <a href="https://github.com/pulsar-edit/pulsar/issues?q=author%3Akiskoza">
       <picture>
         <source
@@ -35,17 +57,6 @@
             srcset="https://github-readme-stats.vercel.app/api/pin/?username=DarthSim&repo=overmind&show_owner=true&description_lines_count=2"
             media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"/>
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=DarthSim&repo=overmind&show_owner=true&description_lines_count=2"/>
-      </picture>
-    </a>
-    <a href="https://github.com/caxlsx/caxlsx_rails/issues?q=author%3Akiskoza">
-      <picture>
-        <source
-            srcset="https://github-readme-stats.vercel.app/api/pin/?username=caxlsx&repo=caxlsx_rails&show_owner=true&description_lines_count=2&theme=dark"
-            media="(prefers-color-scheme: dark)"/>
-        <source
-            srcset="https://github-readme-stats.vercel.app/api/pin/?username=caxlsx&repo=caxlsx_rails&show_owner=true&description_lines_count=2"
-            media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"/>
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=caxlsx&repo=caxlsx_rails&show_owner=true&description_lines_count=2"/>
       </picture>
     </a>
     <a href="https://github.com/hotwired/turbo-android/issues?q=author%3Akiskoza">
@@ -79,17 +90,6 @@
             srcset="https://github-readme-stats.vercel.app/api/pin/?username=mhanberg&repo=lazyasdf&show_owner=true&description_lines_count=2"
             media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"/>
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=mhanberg&repo=lazyasdf&show_owner=true&description_lines_count=2"/>
-      </picture>
-    </a>
-    <a href="https://github.com/alxlion/eyeloupe/issues?q=author%3Akiskoza">
-      <picture>
-        <source
-            srcset="https://github-readme-stats.vercel.app/api/pin/?username=alxlion&repo=eyeloupe&show_owner=true&description_lines_count=2&theme=dark"
-            media="(prefers-color-scheme: dark)"/>
-        <source
-            srcset="https://github-readme-stats.vercel.app/api/pin/?username=alxlion&repo=eyeloupe&show_owner=true&description_lines_count=2"
-            media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"/>
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=alxlion&repo=eyeloupe&show_owner=true&description_lines_count=2"/>
       </picture>
     </a>
   </div>
