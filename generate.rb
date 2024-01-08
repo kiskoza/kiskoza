@@ -42,7 +42,6 @@ recent_repos = Faraday
   .reject { ignored_repos.include?(_1) }
   .uniq
   .map { _1.split('/') }
-  .first(8)
 
 experimental_repos = File.open('experimental_repos.list').readlines.map(&:strip)
 
